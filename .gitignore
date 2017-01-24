@@ -1,0 +1,5 @@
+/target
+/.nrepl-history
+/.nrepl-port
+/.env
+/resources/config.edn
