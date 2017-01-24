@@ -1,4 +1,4 @@
-(ns rads.dynamodb-streams-converter
+(ns rads.dynamodb-streams-consumer
   (:require
     [clojure.core.async :as async :refer [go <!]]
     [clojure.tools.logging :as log]
